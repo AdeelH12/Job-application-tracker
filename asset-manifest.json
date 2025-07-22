@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Job-application-tracker/static/css/main.2f28836f.css",
+    "main.js": "/Job-application-tracker/static/js/main.5d0b4902.js",
+    "static/js/453.99ba4d2f.chunk.js": "/Job-application-tracker/static/js/453.99ba4d2f.chunk.js",
+    "index.html": "/Job-application-tracker/index.html",
+    "main.2f28836f.css.map": "/Job-application-tracker/static/css/main.2f28836f.css.map",
+    "main.5d0b4902.js.map": "/Job-application-tracker/static/js/main.5d0b4902.js.map",
+    "453.99ba4d2f.chunk.js.map": "/Job-application-tracker/static/js/453.99ba4d2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f28836f.css",
+    "static/js/main.5d0b4902.js"
+  ]
+}
